@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning in University
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email : thirdsubham74@gmail.com
+- LinkedIn account : https://www.linkedin.com/in/subham-shrestha-643827293/
 
 <!---
 Subham-Shrestha/Subham-Shrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
