@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Subham-Shrestha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning in Highschool
+- 🌱 I’m currently learning in University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me via email : thirdsubham74@gmail.com
 
 <!---
 Subham-Shrestha/Subham-Shrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
