@@ -8,6 +8,7 @@
 - 🌐 Projects & Links:
     • Portfolio: https://bit.ly/infoSubham
     • Educational Shopping Website: https://bit.ly/GoShop
+    • Vibe Coded Vlog Website : https://vlogsubham.lovable.app
 - ⚡ Always learning, always building.
 
 <!---
