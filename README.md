@@ -2,13 +2,13 @@
 - 🎓 University student passionate about coding & software development
 - 💻 Currently learning and building projects to sharpen my skills
 - 🚀 Interested in web development and real-world applications
-- 📫 Reach me:
-    • Email: thirdsubham74@gmail.com
-    • LinkedIn: https://www.linkedin.com/in/subham-shrestha-643827293/
-- 🌐 Projects & Links:
-    • Portfolio: https://bit.ly/infoSubham
-    • Educational Shopping Website: https://bit.ly/GoShop
-    • Vibe Coded Vlog Website : https://vlogsubham.lovable.app
+- 📫 Reach me: <br/>
+    • Email: thirdsubham74@gmail.com <br/>
+    • LinkedIn: https://www.linkedin.com/in/subham-shrestha-643827293/ <br/>
+- 🌐 Projects & Links: <br/>
+    • Portfolio: https://bit.ly/infoSubham <br/>
+    • Educational Shopping Website: https://bit.ly/GoShop  <br/>
+    • Vibe Coded Vlog Website : https://vlogsubham.lovable.app <br/>
 - ⚡ Always learning, always building.
 
 <!---
